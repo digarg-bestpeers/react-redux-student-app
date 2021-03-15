@@ -1,1 +1,3 @@
 export const ADD_STUDENT = 'ADD_STUDENT'
+export const GET_EDIT_STUDENT = 'GET_EDIT_STUDENT'
+export const EDIT_STUDENT = 'EDIT_STUDENT'
